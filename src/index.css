@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.login-link span{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(34, 189, 228);
+}
